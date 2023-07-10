@@ -351,7 +351,8 @@
 	},
 	"carcharodontosaurus":{
 		"name_t":{
-			"ru":"Кархародонтозавр"
+			"ru":"Кархародонтозавр",
+			"zh":"鲨齿龙"
 		}
 	},
 	"carnotaurus":{
@@ -1992,7 +1993,7 @@
 	},
 	"rhyniognatha":{
 		"name_t":{
-
+			"zh":"林尼颌虫"
 		}
 	},
 	"rockdrake":{
